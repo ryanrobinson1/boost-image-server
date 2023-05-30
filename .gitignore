@@ -1,0 +1,24 @@
+# Logs
+logs
+coverage
+ 
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+ 
+
+# Output of 'npm pack'
+*.tgz
+ 
+
+# build folder
+build
+
+# misc
+.DS_Store
+.vscode
+
+ 
